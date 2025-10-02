@@ -6,3 +6,5 @@ MY FIRST EVER DATA SCIENCE CAPSTONE PROJECT
 - [Day 3 – Data Cleaning & Feature Engineering](DAY_3_CAPSTONE_PROJECT_ipynb.ipynb)  
 - [Day 4 – UPI Growth Visualizations](DAY_4_CAPSTONE_PROJECT.ipynb)  
 - [Day 5 – Growth Rate Analysis](DAY_5_CAPSTONE_PROJECT.ipynb)  
+- [Day 6 – Correlation & Feature Selection](DAY_6_CAPSTONE_PROJECT.ipynb)  
+- [Day 7 – Dataset Preparation](DAY_7_CAPSTONE_PROJECT.ipynb)  
