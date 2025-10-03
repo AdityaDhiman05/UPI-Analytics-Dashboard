@@ -8,3 +8,4 @@ MY FIRST EVER DATA SCIENCE CAPSTONE PROJECT
 - [Day 5 – Growth Rate Analysis](DAY_5_CAPSTONE_PROJECT.ipynb)  
 - [Day 6 – Correlation & Feature Selection](DAY_6_CAPSTONE_PROJECT.ipynb)  
 - [Day 7 – Dataset Preparation](DAY_7_CAPSTONE_PROJECT.ipynb)  
+- [Day 8 – Model Selection & Training](DAY_8_CAPSTONE_PROJECT.ipynb)  
