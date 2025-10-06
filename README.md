@@ -15,7 +15,9 @@ This project explores UPI transaction data, visualizes trends, performs analysis
 - [Day 6 – Correlation & Feature Selection](DAY_6_CAPSTONE_PROJECT.ipynb)  
 - [Day 7 – Dataset Preparation](DAY_7_CAPSTONE_PROJECT.ipynb)  
 - [Day 8 – Model Selection & Training](DAY_8_CAPSTONE_PROJECT.ipynb)  
-- [Day 9 – Dashboard Development & Final Insights](DAY_9_CAPSTONE_PROJECT.ipynb)  
+- [Day 9 – Dashboard Development & Final Insights](DAY_9_CAPSTONE_PROJECT.ipynb)
+- [Day 10 – Final Insights & Model Evaluation](DAY_10_CAPSTONE_PROJECT.ipynb) 
+
 
 ---
 
