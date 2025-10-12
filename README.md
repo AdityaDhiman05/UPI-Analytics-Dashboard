@@ -36,3 +36,20 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly / Dash | Scikit-learn
 
 ---
 
+# UPI Analytics Dashboard
+
+An interactive dashboard built with Streamlit to analyze UPI transaction volumes and predict trends using a Random Forest model.
+
+## Features
+
+- Visualize monthly UPI transaction volumes
+- Compare actual vs. predicted volumes
+- Explore feature importance in the model
+
+## How to Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/upi-analytics-dashboard.git
+   cd upi-analytics-dashboard
