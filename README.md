@@ -81,6 +81,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 **Aditya Dhiman**
-IBM Data Science Professional Certificate
+
+
 [GitHub](https://github.com/AdityaDhiman05) | 
 [LinkedIn](https://linkedin.com/in/aditya-dhiman-981b4127b)
